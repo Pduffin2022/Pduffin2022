@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Pduffin2022
 - 👀 I’m interested in ...Data science/cyber security 
-- 🌱 I’m currently learning ... Python 
-- 💞️ I’m looking to collaborate on ... projects and to create a profile 
+- 🌱 I’m currently learning ... Python, SQL & more....
+- 💞️ I’m looking to collaborate on ... projects, portfolios &  much more...
 - 📫 How to reach me ...
 
 <!---
