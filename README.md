@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Pduffin2022
-- 👀 I’m interested in ...Data science/cyber security 
+- 👀 I’m interested in ...Data science/cyber security /data analyst
 - 🌱 I’m currently learning ... Python, SQL & more....
 - 💞️ I’m looking to collaborate on ... projects, portfolios &  much more...
 - 📫 How to reach me ...pduff2008@gmail.com
