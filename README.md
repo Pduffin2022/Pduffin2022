@@ -8,3 +8,10 @@
 Pduffin2022/Pduffin2022 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+## 📄 Priscilla Duffin - Cybersecurity Portfolio
+
+This repository contains my professional cybersecurity portfolio, including risk assessments, Linux and SQL labs, access control analysis, and more.
+
+📥 [Download Portfolio PDF](./Pduffin2022_Priscilla_Duffin_Cybersecurity_Portfolio_Bundle.pdf)
+
+🔗 [LinkedIn](https://www.linkedin.com/in/p-r-sanders-538976276/)
